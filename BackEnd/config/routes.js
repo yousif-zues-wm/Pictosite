@@ -36,6 +36,7 @@ module.exports.routes = {
   'GET /test': {action: 'Test/index'},
   'POST /upload': {action: 'Test/upload'},
   'GET /vision': {action: 'Test/vision'},
+  'POST /post': {action: 'Test/test'},
 
 
 
